@@ -1,0 +1,42 @@
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\LAB1\LAB1\LAB1\bin\Debug\netcoreapp3.1\LAB1.exe
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\LAB1\LAB1\LAB1\bin\Debug\netcoreapp3.1\LAB1.deps.json
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\LAB1\LAB1\LAB1\bin\Debug\netcoreapp3.1\LAB1.runtimeconfig.json
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\LAB1\LAB1\LAB1\bin\Debug\netcoreapp3.1\LAB1.runtimeconfig.dev.json
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\LAB1\LAB1\LAB1\bin\Debug\netcoreapp3.1\LAB1.dll
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\LAB1\LAB1\LAB1\bin\Debug\netcoreapp3.1\LAB1.pdb
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\LAB1\LAB1\LAB1\obj\Debug\netcoreapp3.1\LAB1.csproj.AssemblyReference.cache
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\LAB1\LAB1\LAB1\obj\Debug\netcoreapp3.1\LAB1.Bai1.resources
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\LAB1\LAB1\LAB1\obj\Debug\netcoreapp3.1\LAB1.Bai2.resources
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\LAB1\LAB1\LAB1\obj\Debug\netcoreapp3.1\LAB1.Bai3.resources
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\LAB1\LAB1\LAB1\obj\Debug\netcoreapp3.1\LAB1.Bai4.resources
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\LAB1\LAB1\LAB1\obj\Debug\netcoreapp3.1\LAB1.Bai5.resources
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\LAB1\LAB1\LAB1\obj\Debug\netcoreapp3.1\LAB1.Lab1.resources
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\LAB1\LAB1\LAB1\obj\Debug\netcoreapp3.1\LAB1.csproj.GenerateResource.cache
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\LAB1\LAB1\LAB1\obj\Debug\netcoreapp3.1\LAB1.GeneratedMSBuildEditorConfig.editorconfig
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\LAB1\LAB1\LAB1\obj\Debug\netcoreapp3.1\LAB1.AssemblyInfoInputs.cache
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\LAB1\LAB1\LAB1\obj\Debug\netcoreapp3.1\LAB1.AssemblyInfo.cs
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\LAB1\LAB1\LAB1\obj\Debug\netcoreapp3.1\LAB1.csproj.CoreCompileInputs.cache
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\LAB1\LAB1\LAB1\obj\Debug\netcoreapp3.1\LAB1.dll
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\LAB1\LAB1\LAB1\obj\Debug\netcoreapp3.1\LAB1.pdb
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\LAB1\LAB1\LAB1\obj\Debug\netcoreapp3.1\LAB1.genruntimeconfig.cache
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\LAB1\[NT106.M21.ATCL]-Session1_Group8-Source code\LAB1\bin\Debug\netcoreapp3.1\LAB1.exe
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\LAB1\[NT106.M21.ATCL]-Session1_Group8-Source code\LAB1\bin\Debug\netcoreapp3.1\LAB1.deps.json
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\LAB1\[NT106.M21.ATCL]-Session1_Group8-Source code\LAB1\bin\Debug\netcoreapp3.1\LAB1.runtimeconfig.json
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\LAB1\[NT106.M21.ATCL]-Session1_Group8-Source code\LAB1\bin\Debug\netcoreapp3.1\LAB1.runtimeconfig.dev.json
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\LAB1\[NT106.M21.ATCL]-Session1_Group8-Source code\LAB1\bin\Debug\netcoreapp3.1\LAB1.dll
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\LAB1\[NT106.M21.ATCL]-Session1_Group8-Source code\LAB1\bin\Debug\netcoreapp3.1\LAB1.pdb
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\LAB1\[NT106.M21.ATCL]-Session1_Group8-Source code\LAB1\obj\Debug\netcoreapp3.1\LAB1.csproj.AssemblyReference.cache
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\LAB1\[NT106.M21.ATCL]-Session1_Group8-Source code\LAB1\obj\Debug\netcoreapp3.1\LAB1.Bai1.resources
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\LAB1\[NT106.M21.ATCL]-Session1_Group8-Source code\LAB1\obj\Debug\netcoreapp3.1\LAB1.Bai2.resources
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\LAB1\[NT106.M21.ATCL]-Session1_Group8-Source code\LAB1\obj\Debug\netcoreapp3.1\LAB1.Bai3.resources
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\LAB1\[NT106.M21.ATCL]-Session1_Group8-Source code\LAB1\obj\Debug\netcoreapp3.1\LAB1.Bai4.resources
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\LAB1\[NT106.M21.ATCL]-Session1_Group8-Source code\LAB1\obj\Debug\netcoreapp3.1\LAB1.Bai5.resources
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\LAB1\[NT106.M21.ATCL]-Session1_Group8-Source code\LAB1\obj\Debug\netcoreapp3.1\LAB1.Lab1.resources
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\LAB1\[NT106.M21.ATCL]-Session1_Group8-Source code\LAB1\obj\Debug\netcoreapp3.1\LAB1.csproj.GenerateResource.cache
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\LAB1\[NT106.M21.ATCL]-Session1_Group8-Source code\LAB1\obj\Debug\netcoreapp3.1\LAB1.GeneratedMSBuildEditorConfig.editorconfig
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\LAB1\[NT106.M21.ATCL]-Session1_Group8-Source code\LAB1\obj\Debug\netcoreapp3.1\LAB1.AssemblyInfoInputs.cache
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\LAB1\[NT106.M21.ATCL]-Session1_Group8-Source code\LAB1\obj\Debug\netcoreapp3.1\LAB1.AssemblyInfo.cs
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\LAB1\[NT106.M21.ATCL]-Session1_Group8-Source code\LAB1\obj\Debug\netcoreapp3.1\LAB1.csproj.CoreCompileInputs.cache
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\LAB1\[NT106.M21.ATCL]-Session1_Group8-Source code\LAB1\obj\Debug\netcoreapp3.1\LAB1.dll
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\LAB1\[NT106.M21.ATCL]-Session1_Group8-Source code\LAB1\obj\Debug\netcoreapp3.1\LAB1.pdb
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\LAB1\[NT106.M21.ATCL]-Session1_Group8-Source code\LAB1\obj\Debug\netcoreapp3.1\LAB1.genruntimeconfig.cache

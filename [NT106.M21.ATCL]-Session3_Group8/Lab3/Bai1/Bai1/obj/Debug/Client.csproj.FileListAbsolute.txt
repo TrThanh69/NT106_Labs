@@ -1,0 +1,10 @@
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\LAB3\Lab3\Bai1\Bai1\bin\Debug\Bai1.exe.config
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\LAB3\Lab3\Bai1\Bai1\bin\Debug\Bai1.exe
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\LAB3\Lab3\Bai1\Bai1\bin\Debug\Bai1.pdb
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\LAB3\Lab3\Bai1\Bai1\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\LAB3\Lab3\Bai1\Bai1\obj\Debug\Bai1.Client.resources
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\LAB3\Lab3\Bai1\Bai1\obj\Debug\Bai1.Properties.Resources.resources
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\LAB3\Lab3\Bai1\Bai1\obj\Debug\Client.csproj.GenerateResource.cache
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\LAB3\Lab3\Bai1\Bai1\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\LAB3\Lab3\Bai1\Bai1\obj\Debug\Bai1.exe
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\LAB3\Lab3\Bai1\Bai1\obj\Debug\Bai1.pdb

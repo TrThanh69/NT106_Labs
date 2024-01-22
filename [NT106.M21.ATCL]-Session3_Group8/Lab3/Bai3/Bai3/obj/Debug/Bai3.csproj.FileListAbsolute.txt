@@ -1,0 +1,12 @@
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\LAB3\Lab3\Bai3\Bai3\obj\Debug\Bai3.csproj.AssemblyReference.cache
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\LAB3\Lab3\Bai3\Bai3\obj\Debug\Bai3.Form1.resources
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\LAB3\Lab3\Bai3\Bai3\obj\Debug\Bai3.Properties.Resources.resources
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\LAB3\Lab3\Bai3\Bai3\obj\Debug\Bai3.TCPClient.resources
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\LAB3\Lab3\Bai3\Bai3\obj\Debug\Bai3.TCPServer.resources
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\LAB3\Lab3\Bai3\Bai3\obj\Debug\Bai3.csproj.GenerateResource.cache
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\LAB3\Lab3\Bai3\Bai3\obj\Debug\Bai3.csproj.CoreCompileInputs.cache
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\LAB3\Lab3\Bai3\Bai3\bin\Debug\Bai3.exe.config
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\LAB3\Lab3\Bai3\Bai3\bin\Debug\Bai3.exe
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\LAB3\Lab3\Bai3\Bai3\bin\Debug\Bai3.pdb
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\LAB3\Lab3\Bai3\Bai3\obj\Debug\Bai3.exe
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\LAB3\Lab3\Bai3\Bai3\obj\Debug\Bai3.pdb

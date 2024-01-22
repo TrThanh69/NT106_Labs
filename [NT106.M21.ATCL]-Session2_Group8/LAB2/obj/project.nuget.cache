@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3e6062vDiYylgPQPn2BnGU//7aha5Osh3YP9ZygZTU8AHeKqWvuaOa1L5q+cSGnRe1eMCItFJFz8h1cIfYRYjQ==",
+  "success": true,
+  "projectFilePath": "C:\\UIT - Studying\\2021-2022\\HK2\\Lap Trinh Mang Can Ban\\LAB2\\LAB2\\LAB2\\LAB2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
+  ],
+  "logs": []
+}

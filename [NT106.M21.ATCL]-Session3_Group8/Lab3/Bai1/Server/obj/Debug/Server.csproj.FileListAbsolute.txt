@@ -1,0 +1,10 @@
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\LAB3\Lab3\Bai1\Server\bin\Debug\Server.exe.config
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\LAB3\Lab3\Bai1\Server\bin\Debug\Server.exe
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\LAB3\Lab3\Bai1\Server\bin\Debug\Server.pdb
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\LAB3\Lab3\Bai1\Server\obj\Debug\Server.Server.resources
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\LAB3\Lab3\Bai1\Server\obj\Debug\Server.Properties.Resources.resources
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\LAB3\Lab3\Bai1\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\LAB3\Lab3\Bai1\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\LAB3\Lab3\Bai1\Server\obj\Debug\Server.exe
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\LAB3\Lab3\Bai1\Server\obj\Debug\Server.pdb
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\LAB3\Lab3\Bai1\Server\obj\Debug\Server.csproj.AssemblyReference.cache

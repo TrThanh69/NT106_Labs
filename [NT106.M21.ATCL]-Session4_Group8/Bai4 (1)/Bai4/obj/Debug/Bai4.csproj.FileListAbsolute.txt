@@ -1,0 +1,132 @@
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\LAB4\Bai4\Bai4\Bai4\bin\Debug\Bai4.exe.config
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\LAB4\Bai4\Bai4\Bai4\bin\Debug\Bai4.exe
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\LAB4\Bai4\Bai4\Bai4\bin\Debug\Bai4.pdb
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\LAB4\Bai4\Bai4\Bai4\obj\Debug\Bai4.csproj.AssemblyReference.cache
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\LAB4\Bai4\Bai4\Bai4\obj\Debug\Bai4.Form1.resources
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\LAB4\Bai4\Bai4\Bai4\obj\Debug\Bai4.Properties.Resources.resources
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\LAB4\Bai4\Bai4\Bai4\obj\Debug\Bai4.csproj.GenerateResource.cache
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\LAB4\Bai4\Bai4\Bai4\obj\Debug\Bai4.csproj.CoreCompileInputs.cache
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\LAB4\Bai4\Bai4\Bai4\obj\Debug\Bai4.exe
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\LAB4\Bai4\Bai4\Bai4\obj\Debug\Bai4.pdb
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\LAB4\Bai4\Bai4\Bai4\obj\Debug\Bai4.Sources.resources
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\LAB4\Bai4\Bai4\Bai4\bin\Debug\Fizzler.dll
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\LAB4\Bai4\Bai4\Bai4\bin\Debug\Fizzler.Systems.HtmlAgilityPack.dll
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\LAB4\Bai4\Bai4\Bai4\bin\Debug\HtmlAgilityPack.dll
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\LAB4\Bai4\Bai4\Bai4\bin\Debug\Fizzler.Systems.HtmlAgilityPack.pdb
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\LAB4\Bai4\Bai4\Bai4\bin\Debug\HtmlAgilityPack.pdb
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\LAB4\Bai4\Bai4\Bai4\bin\Debug\HtmlAgilityPack.xml
+C:\UIT - Studying\2021-2022\HK2\Lap Trinh Mang Can Ban\LAB4\Bai4\Bai4\Bai4\obj\Debug\Bai4.csproj.CopyComplete
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\bin\Debug\Bai4.exe.config
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\bin\Debug\Bai4.exe
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\bin\Debug\Bai4.pdb
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\bin\Debug\netstandard.dll
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\bin\Debug\System.AppContext.dll
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\bin\Debug\System.Collections.Concurrent.dll
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\bin\Debug\System.Collections.dll
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\bin\Debug\System.Collections.NonGeneric.dll
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\bin\Debug\System.Collections.Specialized.dll
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\bin\Debug\System.ComponentModel.dll
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\bin\Debug\System.ComponentModel.Primitives.dll
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\bin\Debug\System.Console.dll
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\bin\Debug\System.Data.Common.dll
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\bin\Debug\System.Diagnostics.Contracts.dll
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\bin\Debug\System.Diagnostics.Debug.dll
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\bin\Debug\System.Diagnostics.Process.dll
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\bin\Debug\System.Diagnostics.Tools.dll
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\bin\Debug\System.Diagnostics.Tracing.dll
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\bin\Debug\System.Drawing.Primitives.dll
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\bin\Debug\System.Dynamic.Runtime.dll
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\bin\Debug\System.Globalization.Calendars.dll
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\bin\Debug\System.Globalization.dll
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\bin\Debug\System.Globalization.Extensions.dll
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\bin\Debug\System.IO.Compression.dll
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\bin\Debug\System.IO.dll
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\bin\Debug\System.IO.FileSystem.dll
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\bin\Debug\System.IO.IsolatedStorage.dll
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\bin\Debug\System.IO.Pipes.dll
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\bin\Debug\System.Linq.dll
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\bin\Debug\System.Linq.Expressions.dll
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\bin\Debug\System.Linq.Parallel.dll
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\bin\Debug\System.Linq.Queryable.dll
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\bin\Debug\System.Net.Http.dll
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\bin\Debug\System.Net.NameResolution.dll
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\bin\Debug\System.Net.NetworkInformation.dll
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\bin\Debug\System.Net.Ping.dll
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\bin\Debug\System.Net.Primitives.dll
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\bin\Debug\System.Net.Requests.dll
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\bin\Debug\System.Net.Security.dll
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\bin\Debug\System.Net.Sockets.dll
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\bin\Debug\System.Net.WebSockets.Client.dll
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\bin\Debug\System.Net.WebSockets.dll
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\bin\Debug\System.ObjectModel.dll
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\bin\Debug\System.Reflection.dll
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\bin\Debug\System.Reflection.Extensions.dll
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\bin\Debug\System.Reflection.Primitives.dll
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\bin\Debug\System.Resources.Reader.dll
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\bin\Debug\System.Resources.ResourceManager.dll
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\bin\Debug\System.Resources.Writer.dll
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\bin\Debug\System.Runtime.dll
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\bin\Debug\System.Runtime.Extensions.dll
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\bin\Debug\System.Runtime.Handles.dll
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\bin\Debug\System.Runtime.InteropServices.dll
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\bin\Debug\System.Runtime.Numerics.dll
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\bin\Debug\System.Security.Claims.dll
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\bin\Debug\System.Security.Principal.dll
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\bin\Debug\System.Security.SecureString.dll
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\bin\Debug\System.Text.Encoding.dll
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\bin\Debug\System.Text.RegularExpressions.dll
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\bin\Debug\System.Threading.dll
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\bin\Debug\System.Threading.Overlapped.dll
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\bin\Debug\System.Threading.Tasks.dll
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\bin\Debug\System.Threading.Thread.dll
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\bin\Debug\System.Threading.ThreadPool.dll
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\bin\Debug\System.Threading.Timer.dll
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\bin\Debug\System.ValueTuple.dll
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\bin\Debug\System.Xml.ReaderWriter.dll
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\bin\Debug\System.Xml.XDocument.dll
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\bin\Debug\System.Xml.XmlDocument.dll
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\bin\Debug\System.Xml.XmlSerializer.dll
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\bin\Debug\System.Xml.XPath.dll
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\bin\Debug\Fizzler.dll
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\bin\Debug\Fizzler.Systems.HtmlAgilityPack.dll
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\bin\Debug\HtmlAgilityPack.dll
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\bin\Debug\Fizzler.Systems.HtmlAgilityPack.pdb
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\bin\Debug\HtmlAgilityPack.pdb
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\bin\Debug\HtmlAgilityPack.xml
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\obj\Debug\Bai4.csproj.AssemblyReference.cache
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\obj\Debug\Bai4.exe.config
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\obj\Debug\Bai4.Form1.resources
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\obj\Debug\Bai4.Properties.Resources.resources
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\obj\Debug\Bai4.csproj.GenerateResource.cache
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\obj\Debug\Bai4.csproj.CoreCompileInputs.cache
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\obj\Debug\Bai4.csproj.CopyComplete
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\obj\Debug\Bai4.exe
+D:\BT_Ckhac\Lab4_LTM\Bai4 (1)\Bai4\obj\Debug\Bai4.pdb
